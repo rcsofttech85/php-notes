@@ -1,0 +1,1 @@
+With generators, you can iterate over a set of data without needing to create an array.

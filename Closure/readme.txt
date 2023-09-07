@@ -1,0 +1,1 @@
+A helper method to convert a closure into an interface.
